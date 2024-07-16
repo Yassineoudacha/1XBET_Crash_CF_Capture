@@ -1,4 +1,4 @@
-# 1XBET Crash CF Capture (Update)
+Live# 1XBET Crash CF Capture (Update)
 Capture the CF Value of 1XBET Crash game using Puppeteer
 
 ![Static Badge](https://img.shields.io/badge/Disclaimer%20on%20Gambling!!!-%23ff2a2a)
