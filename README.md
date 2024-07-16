@@ -19,4 +19,4 @@ The following content involves references to gambling and betting activities. It
   npm install
   node 1xbet_crash_cf_capture.js
 ```
-- The values of L , F (Crash value) & TS will added to the data.csv and data.txt file.
+- The values of L , F (Crash value) & TS will added to the data.csv and data.txt file 1xbet 
